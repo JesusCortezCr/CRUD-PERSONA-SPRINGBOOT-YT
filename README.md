@@ -37,35 +37,6 @@ Maven 3.6+
 
 IDE (IntelliJ IDEA, Eclipse, VS Code)
 
-
-
-📁 Estructura del Proyecto
-text
-src/
-├── main/
-│   ├── java/
-│   │   └── com/
-│   │       └── ejemplo/
-│   │           └── crud/
-│   │               ├── controller/     # Controladores REST
-│   │               ├── service/        # Lógica de negocio
-│   │               ├── repository/     # Acceso a datos
-│   │               ├── entity/         # Entidades JPA
-│   │               ├── exception/      # Manejo de excepciones
-│   │               └── validation/     # Validaciones personalizadas
-│   └── resources/
-│       ├── application.properties      # Configuración
-│       
-└── test/
-    └── java/
-        └── com/
-            └── ejemplo/
-                └── crud/
-                    ├── controller/     # Tests de controladores
-                    ├── service/        # Tests de servicios
-                    └── repository/     # Tests de repositorios
-
-
 👨‍💻 Autor
 Jesus Eduardo Cortez Ramos
 
